@@ -1,0 +1,51 @@
+DepotID,DepotName,State,Region,DepotManager,OpenedYear
+D01,Abuja Central,FCT,North Central,Sani Adeyemi,2014
+D02,Kubwa,FCT,North Central,Amina Afolabi,2016
+D03,Lokoja,Kogi,North Central,Blessing Lawal,2008
+D04,Makurdi,Benue,North Central,Chinedu Ogunleye,2013
+D05,Jos,Plateau,North Central,Femi Ogunleye,2013
+D06,Lafia,Nasarawa,North Central,Ifeoma Garba,2013
+D07,Minna,Niger,North Central,Uche Ibe,2018
+D08,Ilorin,Kwara,North Central,Aisha Adeyemi,2014
+D09,Kano,Kano,North West,Sani Afolabi,2019
+D10,Kano Sharada,Kano,North West,Tunde Abubakar,2014
+D11,Kaduna,Kaduna,North West,Ibrahim Yakubu,2008
+D12,Zaria,Kaduna,North West,Aisha Ibe,2017
+D13,Katsina,Katsina,North West,Halima Afolabi,2019
+D14,Sokoto,Sokoto,North West,Zainab Garba,2016
+D15,Gusau,Zamfara,North West,Tunde Okonkwo,2021
+D16,Birnin Kebbi,Kebbi,North West,Femi Olatunji,2013
+D17,Dutse,Jigawa,North West,Femi Lawal,2019
+D18,Maiduguri,Borno,North East,Adaeze Ogunleye,2008
+D19,Yola,Adamawa,North East,Ngozi Abubakar,2008
+D20,Bauchi,Bauchi,North East,Ngozi Eze,2019
+D21,Gombe,Gombe,North East,Sani Okonkwo,2020
+D22,Jalingo,Taraba,North East,Tunde Nwosu,2015
+D23,Damaturu,Yobe,North East,Emeka Afolabi,2018
+D24,Lagos Apapa,Lagos,South West,Ifeoma Bello,2012
+D25,Lagos Ikeja,Lagos,South West,Adaeze Lawal,2018
+D26,Lagos Lekki,Lagos,South West,Hauwa Ogunleye,2014
+D27,Ikorodu,Lagos,South West,Ibrahim Eze,2012
+D28,Ibadan,Oyo,South West,Adaeze Danjuma,2009
+D29,Ogbomoso,Oyo,South West,Segun Nwosu,2010
+D30,Abeokuta,Ogun,South West,Femi Abubakar,2020
+D31,Sagamu,Ogun,South West,Hauwa Eze,2014
+D32,Akure,Ondo,South West,Kelechi Olatunji,2021
+D33,Osogbo,Osun,South West,Kelechi Garba,2012
+D34,Ado Ekiti,Ekiti,South West,Kemi Danjuma,2008
+D35,Onitsha,Anambra,South East,Funke Ogunleye,2011
+D36,Awka,Anambra,South East,Adaeze Yakubu,2013
+D37,Enugu,Enugu,South East,Gbenga Danjuma,2017
+D38,Aba,Abia,South East,Obinna Nwosu,2018
+D39,Umuahia,Abia,South East,Musa Ibe,2018
+D40,Owerri,Imo,South East,Amina Ogunleye,2012
+D41,Abakaliki,Ebonyi,South East,Musa Umeh,2013
+D42,Port Harcourt,Rivers,South South,Musa Ogunleye,2015
+D43,Onne,Rivers,South South,Chinedu Abubakar,2016
+D44,Warri,Delta,South South,Tunde Umeh,2013
+D45,Asaba,Delta,South South,Musa Eze,2010
+D46,Benin City,Edo,South South,Kemi Lawal,2018
+D47,Uyo,Akwa Ibom,South South,Adaeze Danjuma,2015
+D48,Calabar,Cross River,South South,Zainab Eze,2021
+D49,Yenagoa,Bayelsa,South South,Ngozi Umeh,2021
+D50,Eket,Akwa Ibom,South South,Hauwa Okonkwo,2020
